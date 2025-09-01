@@ -34,6 +34,9 @@
         <mxCell id="fxycsDCcdfyfY2lIus3o-11" value="发起&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;员工综合素质行为记录录入&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="260" height="860" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
