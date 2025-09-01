@@ -4,8 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ikrISnmshqjgnMXcJP4Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="750" height="770" as="geometry" />
+        <mxCell id="ikrISnmshqjgnMXcJP4Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="980" height="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-1" value="智慧人力-工作流-流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="980" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-2" value="智慧人力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-3" value="XXX系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-5" value="平安工作流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-6" value="XXX系统(移动端/PC端&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="100" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
