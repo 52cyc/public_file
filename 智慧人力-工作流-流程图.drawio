@@ -22,6 +22,18 @@
         <mxCell id="fxycsDCcdfyfY2lIus3o-6" value="XXX系统(移动端/PC端&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="100" width="230" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="260" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxycsDCcdfyfY2lIus3o-10" target="fxycsDCcdfyfY2lIus3o-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-10" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxycsDCcdfyfY2lIus3o-11" value="发起&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;员工综合素质行为记录录入&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
